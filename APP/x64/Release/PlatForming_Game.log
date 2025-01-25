@@ -1,0 +1,5 @@
+﻿  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 1924 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  PlatForming_Game.vcxproj -> C:\Users\ASUS\Desktop\Vulkan_Renderer\x64\Release\PlatForming_Game.exe

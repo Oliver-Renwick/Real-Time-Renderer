@@ -1,0 +1,16 @@
+C:\Users\ASUS\Desktop\Vulkan_Renderer\Vulkan_Renderer\Renderer\App\triangle.cpp;C:\Users\ASUS\Desktop\Vulkan_Renderer\Vulkan_Renderer\x64\Debug\triangle.obj
+C:\Users\ASUS\Desktop\Vulkan_Renderer\Vulkan_Renderer\Renderer\Helper\Debugger.cpp;C:\Users\ASUS\Desktop\Vulkan_Renderer\Vulkan_Renderer\x64\Debug\Debugger.obj
+C:\Users\ASUS\Desktop\Vulkan_Renderer\Vulkan_Renderer\Renderer\Helper\Inputs\Input_System.cpp;C:\Users\ASUS\Desktop\Vulkan_Renderer\Vulkan_Renderer\x64\Debug\Input_System.obj
+C:\Users\ASUS\Desktop\Vulkan_Renderer\Vulkan_Renderer\Renderer\Helper\Model_loader.cpp;C:\Users\ASUS\Desktop\Vulkan_Renderer\Vulkan_Renderer\x64\Debug\Model_loader.obj
+C:\Users\ASUS\Desktop\Vulkan_Renderer\Vulkan_Renderer\Renderer\Helper\Texture.cpp;C:\Users\ASUS\Desktop\Vulkan_Renderer\Vulkan_Renderer\x64\Debug\Texture.obj
+C:\Users\ASUS\Desktop\Vulkan_Renderer\Vulkan_Renderer\Renderer\Skybox.cpp;C:\Users\ASUS\Desktop\Vulkan_Renderer\Vulkan_Renderer\x64\Debug\Skybox.obj
+C:\Users\ASUS\Desktop\Vulkan_Renderer\Vulkan_Renderer\Renderer\UI\imgui.cpp;C:\Users\ASUS\Desktop\Vulkan_Renderer\Vulkan_Renderer\x64\Debug\imgui.obj
+C:\Users\ASUS\Desktop\Vulkan_Renderer\Vulkan_Renderer\Renderer\UI\imgui_demo.cpp;C:\Users\ASUS\Desktop\Vulkan_Renderer\Vulkan_Renderer\x64\Debug\imgui_demo.obj
+C:\Users\ASUS\Desktop\Vulkan_Renderer\Vulkan_Renderer\Renderer\UI\imgui_draw.cpp;C:\Users\ASUS\Desktop\Vulkan_Renderer\Vulkan_Renderer\x64\Debug\imgui_draw.obj
+C:\Users\ASUS\Desktop\Vulkan_Renderer\Vulkan_Renderer\Renderer\UI\imgui_tables.cpp;C:\Users\ASUS\Desktop\Vulkan_Renderer\Vulkan_Renderer\x64\Debug\imgui_tables.obj
+C:\Users\ASUS\Desktop\Vulkan_Renderer\Vulkan_Renderer\Renderer\UI\imgui_widgets.cpp;C:\Users\ASUS\Desktop\Vulkan_Renderer\Vulkan_Renderer\x64\Debug\imgui_widgets.obj
+C:\Users\ASUS\Desktop\Vulkan_Renderer\Vulkan_Renderer\Renderer\UI\UI.cpp;C:\Users\ASUS\Desktop\Vulkan_Renderer\Vulkan_Renderer\x64\Debug\UI.obj
+C:\Users\ASUS\Desktop\Vulkan_Renderer\Vulkan_Renderer\Renderer\Vulkan_Renderer.cpp;C:\Users\ASUS\Desktop\Vulkan_Renderer\Vulkan_Renderer\x64\Debug\Vulkan_Renderer.obj
+C:\Users\ASUS\Desktop\Vulkan_Renderer\Vulkan_Renderer\Renderer\Vulkan_SwapChain.cpp;C:\Users\ASUS\Desktop\Vulkan_Renderer\Vulkan_Renderer\x64\Debug\Vulkan_SwapChain.obj
+C:\Users\ASUS\Desktop\Vulkan_Renderer\Vulkan_Renderer\Src\Engine.cpp;C:\Users\ASUS\Desktop\Vulkan_Renderer\Vulkan_Renderer\x64\Debug\Engine.obj
+C:\Users\ASUS\Desktop\Vulkan_Renderer\Vulkan_Renderer\Windows\_window.cpp;C:\Users\ASUS\Desktop\Vulkan_Renderer\Vulkan_Renderer\x64\Debug\_window.obj
