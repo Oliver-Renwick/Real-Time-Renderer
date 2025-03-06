@@ -22,3 +22,5 @@ Ensure all prerequisites are installed. To generate the project files, run:
 ```batch
 Setup.bat
 
+> **Note**  
+> This engine is built exclusively using the Win32 API and is supported only on Windows.
